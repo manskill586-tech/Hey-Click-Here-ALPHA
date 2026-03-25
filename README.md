@@ -1,20 +1,36 @@
-# Flavortown VN
+# Hey-Click-Here-ALPHA-Version
+
+## !!If you are too lazy to climb in the terminal, then download only the "dist" folder and install it through the installer!!
 
 An experimental visual novel with a scene editor, system‑style effects, and a fake terminal. The project is designed for Electron and includes localization.
 
-## Contents
-1. Project Overview
-2. Game Interface
-3. Controls
-4. Settings
-5. Quick Start
-6. Scene Editor
-7. Story & Localization
-8. Fake CMD
-9. Build EXE
-10. Project Structure
-11. Known Notes
-12. Easter Egg
+## Quick Start (In CMD)
+
+You can set the path in the CMD using the command:
+```
+cd "file path"
+```
+If you put the folder in another drive, then:
+```
+cd /d "file path"
+```
+
+1. Install dependencies:
+```
+npm install
+```
+2. Run the game:
+```
+npm run dev
+```
+3. Run the editor:
+```
+npm run editor
+```
+4. Web mode:
+```
+npm run web
+```
 
 ## 1) Project Overview
 - Format: visual novel (Web + Electron).
@@ -51,23 +67,19 @@ An experimental visual novel with a scene editor, system‑style effects, and a 
 
 Language selection appears on startup and is available in Settings.
 
-## 5) Quick Start
-1. Install dependencies:
-```
-npm install
-```
-2. Run the game:
-```
-npm run dev
-```
-3. Run the editor:
-```
-npm run editor
-```
-4. Web mode:
-```
-npm run web
-```
+## 5) Contents
+1. Project Overview
+2. Game Interface
+3. Controls
+4. Settings
+5. Quick Start
+6. Scene Editor
+7. Story & Localization
+8. Fake CMD
+9. Build EXE
+10. Project Structure
+11. Known Notes
+12. Easter Egg
 
 ## 6) Scene Editor
 The editor lets you:
