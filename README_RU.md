@@ -3,7 +3,7 @@
 Визуальная новелла‑эксперимент с редактором сцен, системными эффектами и фейковым терминалом. Проект рассчитан на запуск через Electron и поддерживает локализацию.
 
 ## Демо
-- Полная версия (EXE): https://github.com/manskill586-tech/Hey-Click-Here-ALPHA/tree/main/dist
+- Полная версия (EXE): https://github.com/manskill586-tech/Hey-Click-Here-ALPHA/releases/latest
 - Веб‑версия: https://manskill586-tech.github.io/Hey-Click-Here-ALPHA/
 
 ## Содержание
