@@ -5,7 +5,7 @@
 An experimental visual novel with a scene editor, system‑style effects, and a fake terminal. The project is designed for Electron and includes localization.
 
 ## Demo
-- Full version (EXE): https://github.com/manskill586-tech/Hey-Click-Here-ALPHA/releases/latest
+- Full version (EXE): https://github.com/manskill586-tech/Hey-Click-Here-ALPHA/tree/main/dist
 - Web version: https://manskill586-tech.github.io/Hey-Click-Here-ALPHA/
 
 ## Quick Start (In CMD)
