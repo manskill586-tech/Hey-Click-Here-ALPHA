@@ -1,11 +1,8 @@
 # Hey-Click-Here-ALPHA-Version
 
-## !!If you are too lazy to climb in the terminal, then download only the "dist" folder and install it through the installer!!
-
 An experimental visual novel with a scene editor, system‑style effects, and a fake terminal. The project is designed for Electron and includes localization.
 
 ## Demo
-- Full version (EXE): https://github.com/manskill586-tech/Hey-Click-Here-ALPHA/releases/latest
 - Web version: https://manskill586-tech.github.io/Hey-Click-Here-ALPHA/
 
 ## Quick Start (In CMD)
@@ -83,7 +80,6 @@ Language selection appears on startup and is available in Settings.
 9. Build EXE
 10. Project Structure
 11. Known Notes
-12. Easter Egg
 
 ## 6) Scene Editor
 The editor lets you:
@@ -113,13 +109,7 @@ Supported via timeline:
 
 The editor includes a CMD tab and templates.
 
-## 9) Build EXE
-```
-npm run dist
-```
-Installer appears in `dist/`.
-
-## 10) Project Structure
+## 9) Project Structure
 - index.html, game.js, styles.css — game.
 - story.js — story and scenes.
 - characters.js — character library.
@@ -127,7 +117,7 @@ Installer appears in `dist/`.
 - cmd.html/.js — fake terminal.
 - credits.* — credits sequence.
 
-## 11) Known Notes
+## 10) Known Notes
 - Audio will not start before the first user gesture (browser restriction).
 - Chroma key requires http/https, not file://. Use:
 ```
